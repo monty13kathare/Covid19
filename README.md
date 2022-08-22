@@ -12,3 +12,4 @@
 ## Blogs page
 <img width="830" alt="p6" src="https://user-images.githubusercontent.com/92872528/185903653-8c5dcbe4-8b5e-42d0-945c-75072ec602d9.png">
 # Live Demo
+https://monty13kathare.github.io/Covid19/
